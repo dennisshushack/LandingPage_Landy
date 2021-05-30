@@ -1,16 +1,5 @@
 {
-  "title": "Light, Fast & Responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
-  "section": [
-    {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
-      "icon": "notes.svg"
-    },
-    {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
-      "icon": "notes.svg"
-    }
-  ]
+  "title": "Inventory ",
+  "text": "Here you can see all your items. You can add more items to your inventory. You can also edit your items right here or edit your profile. The main part of this page is to choose an individual item to go swipe with. This page represents in a way our homepage/startingpage.",
+  "section": []
 }

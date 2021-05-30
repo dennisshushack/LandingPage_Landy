@@ -21,9 +21,11 @@ const Home = () => {
         title={IntroContent.title}
         content={IntroContent.text}
         button={IntroContent.button}
-        icon=""
         id="intro"
+        icon="https://img.112.international/original/2020/10/19/291930.jpg"
       />
+
+
       <MiddleBlock
         title={MiddleBlockContent.title}
         content={MiddleBlockContent.text}
@@ -34,7 +36,7 @@ const Home = () => {
         title={AboutContent.title}
         content={AboutContent.text}
         section={AboutContent.section}
-        icon="graphs.svg"
+        icon="https://img.112.international/original/2020/10/19/291930.jpg"
         id="about"
       />
       <ContentBlock

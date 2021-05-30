@@ -49,7 +49,7 @@ const Footer = ({ t }: any) => {
             <NavLink to="/">
               <LogoContainer>
                 <SvgIcon
-                  src="logo.svg"
+                  src="FinderLogo.svg"
                   aria-label="homepage"
                   width="101px"
                   height="64px"
@@ -58,7 +58,7 @@ const Footer = ({ t }: any) => {
             </NavLink>
             <FooterContainer>
               <SocialLink
-                href="https://github.com/Adrinlol/create-react-app-adrinlol"
+                href="https://github.com/sopra-fs21-group-12/clientGroup12"
                 src="github.svg"
               />
 
