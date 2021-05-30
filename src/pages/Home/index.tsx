@@ -22,7 +22,7 @@ const Home = () => {
         content={IntroContent.text}
         button={IntroContent.button}
         id="intro"
-        icon="https://img.112.international/original/2020/10/19/291930.jpg"
+        icon="https://mypicturegallerydshush.s3.eu-central-1.amazonaws.com/0/MyMatchesPage.jpeg"
       />
 
 
@@ -36,21 +36,21 @@ const Home = () => {
         title={AboutContent.title}
         content={AboutContent.text}
         section={AboutContent.section}
-        icon="https://img.112.international/original/2020/10/19/291930.jpg"
+        icon="https://mypicturegallerydshush.s3.eu-central-1.amazonaws.com/0/MyInventoryPage.jpeg"
         id="about"
       />
       <ContentBlock
         type="right"
         title={MissionContent.title}
         content={MissionContent.text}
-        icon="product-launch.svg"
+        icon="https://mypicturegallerydshush.s3.eu-central-1.amazonaws.com/0/MySwipePage.jpeg"
         id="mission"
       />
       <ContentBlock
         type="left"
         title={ProductContent.title}
         content={ProductContent.text}
-        icon="waving.svg"
+        icon="https://mypicturegallerydshush.s3.eu-central-1.amazonaws.com/0/MyChatPage.jpeg"
         id="product"
       />
       <Contact
