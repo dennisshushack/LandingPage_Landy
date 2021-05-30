@@ -17,7 +17,7 @@ interface SocialLinkProps {
   href: string;
   src: string;
 }
-
+//Hello
 const Footer = ({ t }: any) => {
   const handleChange = (language: string) => {
     i18n.changeLanguage(language);
