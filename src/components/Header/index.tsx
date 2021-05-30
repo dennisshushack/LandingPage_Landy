@@ -41,7 +41,7 @@ const Header = ({ t }: any) => {
           <a href = "http://sopra-fs21-group-12-client.herokuapp.com/team">Team</a>
         </CustomNavLinkSmall>
         <CustomNavLinkSmall>
-        <a href = "http://sopra-fs21-group-12-client.herokuapp.com/registration">Register</a>
+        <a href = "http://sopra-fs21-group-12-client.herokuapp.com/registration">Start Now</a>
         </CustomNavLinkSmall>
     
       </>
